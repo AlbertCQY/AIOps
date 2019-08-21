@@ -1,5 +1,5 @@
 ## swingbench使用
-swingbench是oracle开发部门的一个废弃项目，目前是在oracle工作的一个哥们继续开发，不受oracle官方支持。 官网地址：http://www.dominicgiles.com/swingbench.html 可以下载到最新版本。
+swingbench是oracle开发部门的一个废弃项目，目前是在oracle工作的一个哥们继续开发，不受oracle官方支持。 软件下载地址：http://www.dominicgiles.com/swingbench.html 可以下载到最新版本。
 ### swingbench安装&运行
 a.需要java环境java1.6以上。
 b.解压后直接运行bin目录下的oewizard造数据，造完数据后可以使用图形界面的swingbench或者命令行界面的charbench
